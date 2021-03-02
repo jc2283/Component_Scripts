@@ -1,0 +1,2 @@
+/etc/init.d/mysql status
+/etc/init.d/mysql start
