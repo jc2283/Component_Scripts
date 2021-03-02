@@ -1,0 +1,5 @@
+#Service status
+sudo service rabbitmq-server status
+
+#Start service
+service rabbitmq-server start
